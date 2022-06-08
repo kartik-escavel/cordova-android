@@ -26,4 +26,30 @@ function onDeviceReady() {
 
     console.log('Running cordova-' + cordova.platformId + '@' + cordova.version);
     document.getElementById('deviceready').classList.add('ready');
+    document.getElementById("cordovaDevice").addEventListener("click",onButtonClick, false);
+    // var obj = new Object();
+    //     obj.name = "Ahmad";
+    //     obj.family = "Aghazadeh";
+    //     intentPlugin.startActivity("com.scholar.test","com.unity3d.player.UnityPlayerActivity", JSON.stringify(obj));
 }
+
+function onButtonClick()
+{
+        var obj = new Object();
+        obj.name = "Ahmad";
+        obj.family = "Aghazadeh";
+        intentPlugin.startActivity("com.scholar.test","com.unity3d.player.UnityPlayerActivity", JSON.stringify(obj));
+//     UnityAR.launchWithMessage("Manager","GetMessageFromCordova","Cordova Msg",
+// (data)=>{
+//      console.log("success ",data);
+//  },(err)=>{
+//      console.log("error ",err);
+// });;
+    
+
+
+}
+
+
+
+

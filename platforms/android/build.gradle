@@ -47,6 +47,7 @@ allprojects {
     repositories repos
 }
 
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
