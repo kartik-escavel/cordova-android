@@ -5,106 +5,106 @@
 5    package="com.unity3d.player" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="19"
-8-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml
+8        android:minSdkVersion="22"
+8-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml
+9-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml
 10
 11    <uses-feature android:glEsVersion="0x00030000" />
-11-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:18:3-52
-11-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:18:17-49
+11-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:18:3-52
+11-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:18:17-49
 12    <uses-feature
-12-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:19:3-91
+12-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:19:3-91
 13        android:name="android.hardware.vulkan.version"
-13-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:19:17-63
+13-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:19:17-63
 14        android:required="false" />
-14-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:19:64-88
+14-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:19:64-88
 15
 16    <uses-permission android:name="android.permission.INTERNET" />
-16-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:20:3-65
-16-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:20:20-62
+16-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:20:3-65
+16-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:20:20-62
 17
 18    <uses-feature
-18-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:21:3-88
+18-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:21:3-88
 19        android:name="android.hardware.touchscreen"
-19-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:21:17-60
+19-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:21:17-60
 20        android:required="false" />
-20-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:21:61-85
+20-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:21:61-85
 21    <uses-feature
-21-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:22:3-99
+21-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:22:3-99
 22        android:name="android.hardware.touchscreen.multitouch"
-22-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:22:17-71
+22-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:22:17-71
 23        android:required="false" />
-23-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:22:72-96
+23-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:22:72-96
 24    <uses-feature
-24-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:23:3-108
+24-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:23:3-108
 25        android:name="android.hardware.touchscreen.multitouch.distinct"
-25-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:23:17-80
+25-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:23:17-80
 26        android:required="false" />
-26-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:23:81-105
+26-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:23:81-105
 27
 28    <application>
-28-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:4:3-17:17
+28-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:4:3-17:17
 29        <activity
-29-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:5:5-12:16
+29-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:5:5-12:16
 30            android:name="com.unity3d.player.UnityPlayerActivity"
-30-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:5:15-68
+30-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:5:15-68
 31            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-31-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:5:188-369
+31-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:5:188-369
 32            android:hardwareAccelerated="false"
-32-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:5:370-405
+32-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:5:370-405
 33            android:launchMode="singleTask"
-33-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:5:156-187
+33-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:5:156-187
 34            android:screenOrientation="reverseLandscape"
-34-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:5:111-155
+34-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:5:111-155
 35            android:theme="@style/UnityThemeSelector" >
-35-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:5:69-110
+35-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:5:69-110
 36            <intent-filter>
-36-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:6:7-9:23
+36-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:6:7-9:23
 37                <action android:name="android.intent.action.MAIN" />
-37-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:7:9-61
-37-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:7:17-58
+37-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:7:9-61
+37-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:7:17-58
 38                <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
 39            </intent-filter>
 40
 41            <meta-data
-41-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:10:7-82
+41-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:10:7-82
 42                android:name="unityplayer.UnityActivity"
-42-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:10:18-58
+42-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:10:18-58
 43                android:value="true" />
-43-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:10:59-79
+43-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:10:59-79
 44            <meta-data
-44-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:11:7-78
+44-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:11:7-78
 45                android:name="android.notch_support"
-45-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:11:18-54
+45-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:11:18-54
 46                android:value="true" />
-46-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:11:55-75
+46-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:11:55-75
 47        </activity>
 48
 49        <meta-data
-49-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:13:5-69
+49-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:13:5-69
 50            android:name="unity.splash-mode"
-50-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:13:16-48
+50-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:13:16-48
 51            android:value="0" />
-51-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:13:49-66
+51-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:13:49-66
 52        <meta-data
-52-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:14:5-74
+52-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:14:5-74
 53            android:name="unity.splash-enable"
-53-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:14:16-50
+53-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:14:16-50
 54            android:value="True" />
-54-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:14:51-71
+54-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:14:51-71
 55        <meta-data
-55-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:15:5-81
+55-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:15:5-81
 56            android:name="notch.config"
-56-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:15:16-43
+56-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:15:16-43
 57            android:value="portrait|landscape" />
-57-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:15:44-78
+57-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:15:44-78
 58        <meta-data
-58-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:16:5-101
+58-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:16:5-101
 59            android:name="unity.build-id"
-59-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:16:16-45
+59-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:16:16-45
 60            android:value="ad992705-2cc1-46b2-b77b-1b28538821a9" />
-60-->/Users/kartikshah/Desktop/cordova-android/platforms/android/unityLibrary/src/main/AndroidManifest.xml:16:46-98
+60-->C:\Users\hp\Downloads\cordova-android-master\platforms\android\unityLibrary\src\main\AndroidManifest.xml:16:46-98
 61    </application>
 62
 63</manifest>

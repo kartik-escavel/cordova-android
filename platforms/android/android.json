@@ -4,8 +4,41 @@
     "uninstalled": []
   },
   "config_munge": {
-    "files": {}
+    "files": {
+      "res/xml/config.xml": {
+        "parents": {
+          "/*": [
+            {
+              "xml": "<feature name=\"IntentPlugin\"><param name=\"android-package\" value=\"sevensky.cordova.plugins.IntentPlugin\" /></feature>",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "AndroidManifest.xml": {
+        "parents": {
+          "/manifest/application": []
+        }
+      }
+    }
   },
-  "installed_plugins": {},
-  "dependent_plugins": {}
+  "installed_plugins": {
+    "sevensky-cordova-plugin-intent": {
+      "PACKAGE_NAME": "com.scholar.test"
+    }
+  },
+  "dependent_plugins": {},
+  "modules": [
+    {
+      "id": "sevensky-cordova-plugin-intent.intentPlugin",
+      "file": "plugins/sevensky-cordova-plugin-intent/www/intentPlugin.js",
+      "pluginId": "sevensky-cordova-plugin-intent",
+      "clobbers": [
+        "intentPlugin"
+      ]
+    }
+  ],
+  "plugin_metadata": {
+    "sevensky-cordova-plugin-intent": "1.0.6"
+  }
 }
